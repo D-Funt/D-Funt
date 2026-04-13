@@ -1,4 +1,4 @@
-# Hi there, I'm Dylan Funt 🚀
+# Hi there, I'm Dylan Funt
 
 ### Software Developer | Backend & AWS Cloud | Operations-First Mindset
 
@@ -6,7 +6,7 @@ I don't just write code; I engineer software to solve real-world business bottle
 
 ---
 
-### ⚡ What I do
+###  What I do
 - 🌩️ **Cloud Architecture:** Designing Serverless and Event-Driven Architectures on AWS.
 - ⚙️ **Backend Engineering:** Building scalable, multi-tenant RESTful APIs with Python (Django, FastAPI, Flask).
 - 🔄 **Automation:** Transforming manual legacy processes into reliable, automated pipelines.
@@ -35,14 +35,14 @@ I don't just write code; I engineer software to solve real-world business bottle
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 - 📚 Pursuing **AWS Solutions Architect** & **Developer Associate** Certifications.
 - 🏗️ Deepening knowledge in Advanced Data Structures and Algorithms (UC San Diego).
 - 🔐 Developing a highly scalable **Serverless Authentication System** using AWS API Gateway, Lambda, and DynamoDB.
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanfunt/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:funtdylan@gmail.com)
 
