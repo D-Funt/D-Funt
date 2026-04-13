@@ -11,7 +11,7 @@ I don't just write code; I engineer software to solve real-world business bottle
 - ⚙️ **Backend Engineering:** Building scalable, multi-tenant RESTful APIs with Python (Django, FastAPI, Flask).
 - 🔄 **Automation:** Transforming manual legacy processes into reliable, automated pipelines.
 
-### 🛠️ Core Tech Stack
+###  Core Tech Stack
 
 **Backend & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
